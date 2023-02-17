@@ -160,5 +160,5 @@ cython_debug/
 .idea/
 
 # My files and folders
-.*_venv/
+/*_venv/
 /data/
