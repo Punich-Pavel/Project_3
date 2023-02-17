@@ -161,4 +161,4 @@ cython_debug/
 
 # My files and folders
 .*_venv/
-.data/
+/data/
